@@ -14,7 +14,7 @@ public class DockerController {
 	@RequestMapping(value = "/test", method = RequestMethod.GET)
 	public String showLoginPage() {
 		logger.info("Docker-demo test Success!!");
-		return "Docker-demo test Success!!";
+		return "Docker-demo test Success for Docker Auto build image!!!";
 	}
 	
 }
