@@ -1,2 +1,1 @@
-# Docker
-Docker-demo
+Sample README for Docker
